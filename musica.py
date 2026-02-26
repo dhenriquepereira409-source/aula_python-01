@@ -1,0 +1,26 @@
+musica = """
+Paz, eu quero paz
+Já me cansei de ser a última a saber de ti
+Se todo mundo sabe quem te faz
+Chegar mais tarde
+Eu já cansei de imaginar você com ela
+
+Diz pra mim
+Se vale a pena, amor
+A gente ria tanto desses nossos desencontros
+Mas você passou do ponto
+E agora eu já não sei mais
+
+Eu quero paz
+Quero dançar com outro par
+Pra variar, amor
+Não dá mais pra fingir que ainda não vi
+As cicatrizes que ela fez
+
+Se desta vez
+Ela é senhora deste amor
+Pois vá embora, por favor
+Que não demora pra essa dor
+Sangrar
+"""
+print(musica)
