@@ -2,7 +2,7 @@
 pontos = {}
 
 #ENTRADA DE DADOS
-for i in range(3):
+for i in range(5):
     nome = input("Digite seu nome: ")  #chave
     pontuacao = float(input("Informe os pontos iniciais: "))  #valor
     
