@@ -1,0 +1,48 @@
+escolha = int(input("Escoha o PC:\n 1.PC Gamer Custo beneficio\n 2.PC Gamer Intermediário \n 3.PC de Servidor\n 4.Pc de escritorio\n 5.Pc da Xuxa\n\n escolha = "))
+
+match escolha:
+    case 1:
+        print("PC Gamer Custo beneficio\n")
+        print("Descrição:")
+        print("CPU: AMD Ryzen 5 5500 ou 5600")
+        print("Placa de Vídeo: NVIDIA RTX 2060 Super, RTX 3060 ou AMD RX 6600")
+        print("RAM: 16GB (2x8GB) DDR4 3200MHz")
+        print("Armazenamento: SSD NVMe 500GB ou 1TB")
+        print("Fonte: 550W ou 650W 80 Plus Bronze")
+        print("Placa-mãe: B450M ou B550M")
+    case 2:
+        print("PC Gamer Intermediário\n")
+        print("Descrição:")
+        print("CPU: AMD Ryzen 7 5700X3D ou Intel Core i5-13400F/14400F")
+        print("Placa de Vídeo: NVIDIA RTX 4060 Ti ou AMD RX 7700 XT")
+        print("RAM: 32GB (2x16GB) DDR4/DDR5")
+        print("Armazenamento: SSD NVMe 1TB Gen4")
+        print("Fonte: 650W ou 750W 80 Plus Gold")
+    case 3:
+        print("PC de Servidor\n")
+        print("Descrição:")
+        print("CPU: 2 a 4+ processadores (ou núcleos de alta frequência, >2 GHz).")
+        print("RAM: 16 GB a 128 GB+ (dependendo do tamanho da base de dados e usuários).")
+        print("Armazenamento: SSDs NVMe/SATA em configuração RAID 10 para máxima velocidade e segurança.")
+        print("Rede: 10 GbE.")
+    case 4:
+        print("Pc de escritorio\n")
+        print("Descrição:")
+        print("Processador (CPU): Intel Core i5 (12ª a 14ª geração) ou AMD Ryzen 5 (série 5000/7000/8000/9000).")
+        print("Memória RAM: 16GB (mínimo) a 32GB (ideal para 2026), preferencialmente 2 pentes de 16GB (Dual Channel).")
+        print("Armazenamento: SSD NVMe de 500GB ou 1TB (essencial para agilidade do sistema).")
+        print("Placa Mãe: Placa compatível com o processador escolhido, com saídas HDMI/DisplayPort.")
+        print("Placa de Vídeo (GPU): Integrada ao processador (Intel UHD/Iris Xe ou AMD Radeon Graphics) é suficiente para uso 2D.")
+        print("Fonte (PSU): 400W a 500W com certificação 80 Plus (Bronze ou superior) para eficiência e segurança.")
+        print("Gabinete: Modelo compacto ou ATX com boa ventilação.")
+        print("Sistema Operacional: Windows 11.")
+    case 5:
+        print("Pc da Xuxa\n")
+        print("Descrição:")
+        print("Processador: Modelos antigos, como i3-2200K ou equivalentes.")
+        print("Memória RAM: 2GB a 4GB DDR3.")
+        print("Armazenamento: HDs mecânicos (ex: Seagate Barracuda 1TB).")
+        print("Placa de Vídeo: Integrada (sem placa dedicada).")
+        print("Periféricos: Mouse e teclado básicos.")
+    case _:
+        print("Você é um gênio... sabo mesmo!")
