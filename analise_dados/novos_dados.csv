@@ -1,0 +1,31 @@
+id_funcionario,nome_completo,departamento,cargo,data_admissao,salario_mensal_brl,nivel,cidade,sexo,estado_civil
+1,Thiago Lima,Marketing,Analista de Marketing,2023-04-22,9800,Pleno,Rio de Janeiro,M,Solteiro(a)
+2,Otávio Lima,Vendas,Vendedor,2023-01-11,4400,Pleno,Fortaleza,F,União Estável
+3,Ana Ferreira,Produção,Técnico de Produção,2017-05-31,5900,Especialista,Recife,F,União Estável
+4,Yasmin Nogueira,Marketing,Gerente de Marketing,2021-01-05,4400,Sênior,Salvador,F,Divorciado(a)
+5,Natália Oliveira Lima,Produção,Técnico de Produção,2024-08-04,9400,Júnior,Rio de Janeiro,F,União Estável
+6,Zilda Martins,Operações,Analista de Processos,2022-08-31,4700,Pleno,Goiânia,M,Casado(a)
+7,Amanda Gomes,TI,Gerente de TI,2017-06-18,14800,Sênior,Juiz de Fora,M,Casado(a)
+8,Beatriz Gomes Cardoso,Vendas,Analista Comercial,2017-05-20,10900,Pleno,Salvador,M,União Estável
+9,Isabela Lima,TI,Suporte Técnico,2021-07-22,11700,Pleno,Goiânia,F,Casado(a)
+10,Henrique Oliveira,TI,DevOps,2022-01-14,20900,Pleno,Montes Claros,F,Solteiro(a)
+11,Felipe Barbosa,Jurídico,Estagiário Jurídico,2015-02-17,12100,Júnior,Rio de Janeiro,M,Divorciado(a)
+12,Úrsula Alves,Operações,Coordenador de Operações,2024-10-27,3400,Sênior,Fortaleza,M,Solteiro(a)
+13,Natália Rodrigues,Financeiro,Tesoureiro,2023-09-25,5000,Sênior,São Paulo,M,União Estável
+14,Zilda Costa,Vendas,Vendedor,2025-08-14,5500,Júnior,Uberlândia,M,Solteiro(a)
+15,Isabela Moreira,Qualidade,Analista de Qualidade,2020-12-01,10600,Pleno,Salvador,M,Casado(a)
+16,Thiago Moreira Souza,Produção,Supervisor de Produção,2016-02-24,5682,Júnior,São Paulo,M,Solteiro(a)
+17,Zilda Gomes,Qualidade,Analista de Qualidade,2023-01-11,17130,Especialista,Goiânia,F,União Estável
+18,Thiago Cardoso,Operações,Coordenador de Operações,2018-02-12,7852,Pleno,Rio de Janeiro,M,Solteiro(a)
+19,Beatriz Nogueira Rodrigues,Marketing,Social Media,2021-01-05,4111,Júnior,Porto Alegre,F,União Estável
+20,Gustavo Martins,Logística,Analista de Logística,2022-11-25,3053,Júnior,Uberlândia,M,União Estável
+21,Bruno Souza,Operações,Coordenador de Operações,2020-02-01,11190,Sênior,Recife,M,Casado(a)
+22,Carlos Martins,Vendas,Analista Comercial,2020-12-27,7684,Pleno,Brasília,M,União Estável
+23,João Moreira,RH,Analista de RH,2017-07-27,6343,Júnior,Brasília,M,União Estável
+24,Sofia Costa,RH,Analista de RH,2022-05-08,20021,Especialista,Belo Horizonte,F,União Estável
+25,Mariana Gomes,Logística,Coordenador de Logística,2021-07-18,18979,Especialista,Belo Horizonte,F,Viúvo(a)
+26,Marcos Silva,Produção,Supervisor de Produção,2016-10-17,14428,Especialista,Brasília,M,Viúvo(a)
+27,Rafael Rodrigues,Marketing,Analista de Marketing,2022-08-24,16092,Sênior,Rio de Janeiro,M,União Estável
+28,Larissa Silva,Financeiro,Contador,2020-09-10,5572,Júnior,Montes Claros,F,Viúvo(a)
+29,Henrique Ferreira,Qualidade,Coordenador de Qualidade,2015-01-03,13141,Sênior,Rio de Janeiro,M,União Estável
+30,Bruno Cardoso Silva,TI,Gerente de TI,2015-11-19,6392,Júnior,Montes Claros,M,Solteiro(a)
